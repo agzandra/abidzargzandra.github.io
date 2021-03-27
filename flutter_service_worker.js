@@ -50,8 +50,8 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Typicons.ttf": "3386cae1128e52caf268508d477fb660",
 "assets/packages/fluttericon/lib/fonts/WebSymbols.ttf": "4fd66aa74cdc6e5eaff0ec916ac269c6",
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
-"index.html": "d2ed91d24bfa5ee4c18ef420462f0df5",
-"/": "d2ed91d24bfa5ee4c18ef420462f0df5",
+"index.html": "4b8a6d280f0ee2b86d10b115a49a4c28",
+"/": "4b8a6d280f0ee2b86d10b115a49a4c28",
 "main.dart.js": "0fedcb45cb140894903d58f03344551b",
 "version.json": "8fec7422cd1a3aceb58c4ac51bc3c76a"
 };
